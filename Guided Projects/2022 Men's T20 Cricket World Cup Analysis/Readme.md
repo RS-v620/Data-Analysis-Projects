@@ -47,3 +47,4 @@ These are supposed to be the bowlers that can take out wickets quickly to reduce
 6. Dot Ball % : Percentage of dot balls balled > 40
 
 # Data Collection 
+I am using Octoparse app on desktop to acces the data from ESPN-cricket [website](https://www.espncricinfo.com/ci/engine/series/index.html?season=2022%2F23;view=season)
