@@ -48,3 +48,11 @@ These are supposed to be the bowlers that can take out wickets quickly to reduce
 
 # Data Collection 
 I am using Octoparse app on desktop to acces the data from ESPN-cricket [website](https://www.espncricinfo.com/ci/engine/series/index.html?season=2022%2F23;view=season)
+The process seemed to be more complicated and after several unsuccessful attempts, the data was simply downloaded from the course-resource [site](https://codebasics.io/resources/data-analytics-project-for-beginners). The data contains the following files:
+1. dim_match_summary.csv
+2. dim_players.csv
+3. dim_players_no_images.csv
+4. fact_batting_summary.csv
+5. fact_bowling_summary.csv
+
+
